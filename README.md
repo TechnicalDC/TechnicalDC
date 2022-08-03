@@ -1,5 +1,7 @@
 
-# Dilip Chauhan
+<div align='center'>
+  <h1>Dilip Chauhan</h1>
+</div>
 
 Programmer, Linux Enthusiast 
 

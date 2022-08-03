@@ -1,14 +1,19 @@
 
 <div align='center'>
-  <h1>Dilip Chauhan</h1>
+       _ _ _ _              _                 _
+  __| (_) (_)_ __     ___| |__   __ _ _   _| |__   __ _ _ __
+ / _` | | | | '_ \   / __| '_ \ / _` | | | | '_ \ / _` | '_ \
+| (_| | | | | |_) | | (__| | | | (_| | |_| | | | | (_| | | | |
+ \__,_|_|_|_| .__/   \___|_| |_|\__,_|\__,_|_| |_|\__,_|_| |_|
+            |_|
 </div>
 
-Programmer, Linux Enthusiast 
+Programmer, Linux Enthusiast and Privacy Supporter
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [awesome wm](https://github.com/TechnicalDC/AwesomeOS) customization.
-- 🌱 I’m currently learning bash scripting and lua.
+- 🔭 I’m currently working on portfolio using flask.
+- 🌱 I’m currently learning bash scripting, python and lua.
 - 💬 Ask me about Linux, FOSS.
 - 📫 How to reach me: Look down lazzy boy.
 

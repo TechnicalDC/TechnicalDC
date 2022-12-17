@@ -1,6 +1,11 @@
 
 <div align='center'>
-	<img src="https://github.com/TechnicalDC/TechnicalDC/blob/main/res/dc-logo.png" alt="logo" width="40%" height=auto>
+	<img src="https://github.com/TechnicalDC/TechnicalDC/blob/main/res/dc-logo.png" alt="logo"\
+		style="
+			width: 30%;
+			height: auto;
+			border-radius: 50%;
+		">
 	<h1>Dilip Chauhan</h1>
 </div>
 

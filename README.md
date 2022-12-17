@@ -1,6 +1,7 @@
 
 <div align='center'>
-       <h1>Dilip Chauhan</h1>
+	<img src="src/dc-logo.png" alt="logo" width="40%" height=auto>
+	<h1>Dilip Chauhan</h1>
 </div>
 
 Programmer, Linux Enthusiast and Privacy Supporter

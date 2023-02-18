@@ -7,17 +7,14 @@
 			border-radius: 50%;
 		">
 	<h1>Dilip Chauhan</h1>
-	<p>Programmer, Linux Enthusiast and Privacy Supporter</p>
+	<h3>Programmer, Linux Enthusiast and Privacy Supporter</h3>
 </div>
-
-
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on portfolio using flask.
 - 🌱 I’m currently learning bash scripting, python and lua.
 - 💬 Ask me about Linux, FOSS.
-- 📫 How to reach me: Look down lazzy boy.
 
 ## Langauage 
 ![html5](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/html5.png)

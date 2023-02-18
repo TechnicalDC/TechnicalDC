@@ -7,9 +7,10 @@
 			border-radius: 50%;
 		">
 	<h1>Dilip Chauhan</h1>
+	<p>Programmer, Linux Enthusiast and Privacy Supporter</p>
 </div>
 
-Programmer, Linux Enthusiast and Privacy Supporter
+
 
 Here are some ideas to get you started:
 
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 [![linkedin](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/linkedin.png)](https://www.linkedin.com/in/dilip-chauhan-0287871b7/)
 [![youtube](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/youtube.png)](https://www.youtube.com/channel/UCh98peCVtmezFdSR18kipcg)
 
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechnicalDC&show_icons=true&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnicalDC&show_icons=true&theme=dark"/>

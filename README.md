@@ -10,6 +10,8 @@
 	<h3>Programmer, Linux Enthusiast and Privacy Supporter</h3>
 </div>
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on portfolio using flask.

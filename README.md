@@ -17,8 +17,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on portfolio using flask.
-- 🌱 I’m currently learning bash scripting, python and lua.
-- 💬 Ask me about Linux, FOSS.
+- 🌱 I’m currently learning bash scripting, python and go.
+- 💬 Ask me about Linux, FOSS, CLI.
 
 ## Langauage 
 ![html5](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/html5.png)

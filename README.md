@@ -30,3 +30,10 @@ Here are some ideas to get you started:
 [![instagram](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/instagram.png)](https://www.instagram.com/technicaldc.me/)
 [![linkedin](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/linkedin.png)](https://www.linkedin.com/in/dilip-chauhan-0287871b7/)
 [![youtube](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/youtube.png)](https://www.youtube.com/channel/UCh98peCVtmezFdSR18kipcg)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechnicalDC&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnicalDC&show_icons=true&theme=dark"/>
+  <!--   Most used languages -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marutimuthu&show_icons=true&theme=dark&layout=compact"/> -->
+</p>

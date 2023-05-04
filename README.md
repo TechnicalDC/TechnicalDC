@@ -16,7 +16,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on portfolio using flask.
+- 🔭 I’m currently working on custom cmp source [cmp-able](https://github.com/TechnicalDC/TechnicalDC/cmp-abl).
 - 🌱 I’m currently learning bash scripting, python and go.
 - 💬 Ask me about Linux, FOSS, CLI.
 

@@ -14,24 +14,20 @@
 <br/>
 <br/>
 
-Here are some ideas to get you started:
+## Langauage
+- `html`
+- `javascript`
+- `css`
+- `python`
+- `markdown`
+- `latex`
+- `lua`
+- `typescript`
 
-- 🔭 I’m currently working on custom cmp source [cmp-abl](https://github.com/TechnicalDC/TechnicalDC/cmp-abl), plugin [progress.nvim](https://github.com/TechnicalDC/TechnicalDC/progress.nvim).
-- 🌱 I’m currently learning bash scripting, python and go.
-- 💬 Ask me about Linux, FOSS, CLI.
-
-## Langauage 
-![html5](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/html5.png)
-![javascript](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/js.png)
-![css](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/css3.png)
-![python](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/python.png)
-![markdown](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/markdown.png)
-![latex](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/latex.png)
-
-## Social 
-[![instagram](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/instagram.png)](https://www.instagram.com/technicaldc.me/)
-[![linkedin](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/linkedin.png)](https://www.linkedin.com/in/dilip-chauhan-0287871b7/)
-[![youtube](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/youtube.png)](https://www.youtube.com/channel/UCh98peCVtmezFdSR18kipcg)
+## Social
+- [instagram](https://www.instagram.com/technicaldc.me/)
+- [linkedin](https://www.linkedin.com/in/dilip-chauhan-0287871b7/)
+- [youtube](https://www.youtube.com/channel/UCh98peCVtmezFdSR18kipcg)
 
 ## Stats
 <p align="center">

@@ -23,6 +23,8 @@
 - `latex`
 - `lua`
 - `typescript`
+- `java`
+- `openedge`
 
 ## Social
 - [instagram](https://www.instagram.com/technicaldc.me/)
